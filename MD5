@@ -1,5 +1,10 @@
-32ef3514ca8e6a6d9dc16c35a226e717 *DESCRIPTION
-539a116abff96e95c77574f130572df5 *NAMESPACE
-ff4e6650e925d9ff84879e6ac610f4be *R/ini.R
-134fa4df2dcc43f226bc474c43f0236d *man/read.ini.Rd
-8d0c3596f6cb37a8c7aa7bf329951818 *man/write.ini.Rd
+c6c8923e8105e1cea72f0a99b4f813f6 *DESCRIPTION
+f240ce12ce812afd9dde6a5cd3ec1a96 *NAMESPACE
+18b903426e023cdb331b6593b86cbf5a *R/ini.R
+0fb6f071af203d5a38b16ce8904da738 *README.md
+4017b103a98cce01d74e4b66e9affdb6 *man/read.ini.Rd
+5b9418810cbe9097410d5462acfd46c3 *man/write.ini.Rd
+ca69ee6f328efa26259a3178258b0aeb *tests/testthat.R
+22ca2493cd69b1c4a6786fbf01f0741f *tests/testthat/test-read.ini.R
+04da3e1c51987eecadea988f89fc4af4 *tests/testthat/test-write.ini.R
+223c0b0ee1c03c8fb6e4563cb1d795ed *tests/testthat/writeini.txt
