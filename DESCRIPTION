@@ -1,9 +1,9 @@
 Package: ini
 Type: Package
 Title: Read and Write '.ini' Files
-Version: 0.3.0
-Date: 2017-09-30
-Author: David Valentim Disa
+Version: 0.3.1
+Date: 2018-05-19
+Author: David Valentim Dias
 Maintainer: David Valentim Dias <dvdscripter@gmail.com>
 Description: Parse simple '.ini' configuration files to an structured list. Users
   can manipulate this resulting list with lapply() functions. This same
@@ -15,6 +15,6 @@ LazyData: FALSE
 RoxygenNote: 6.0.1
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2017-09-30 19:30:34 UTC; CLIENTE
+Packaged: 2018-05-19 23:19:45 UTC; CLIENTE
 Repository: CRAN
-Date/Publication: 2017-09-30 23:20:43 UTC
+Date/Publication: 2018-05-20 03:26:39 UTC
